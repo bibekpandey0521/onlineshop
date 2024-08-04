@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Smartphone",
+        "price": 299.99,
+        "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDkxfHxzbWFydHNob25lfGVufDB8fHx8MTY4Nzk2MTM5OA&ixlib=rb-1.2.1&q=80&w=1080",
+        "category": "Electronics",
+        "rating": 4.5
+    },
+    {
+        "name": "Laptop",
+        "price": 999.99,
+        "image": "https://plus.unsplash.com/premium_photo-1681702156223-ea59bfbf1065?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fHww",
+        "category": "Electronics",
+        "rating": 4.8
+    },
+    {
+        "name": "Headphones",
+        "price": 149.99,
+        "image": "https://plus.unsplash.com/premium_photo-1678099940967-73fe30680949?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Electronics",
+        "rating": 4.2
+    },
+    {
+        "name": "Smartwatch",
+        "price": 199.99,
+        "image": "https://images.unsplash.com/photo-1456444029056-7dfaeeb83a19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2FtcnQlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Electronics",
+        "rating": 4.6
+    },
+    {
+        "name": "Camera",
+        "price": 549.99,
+        "image": "https://plus.unsplash.com/premium_photo-1685195883710-fe01b26e7a4d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhbWVyYXxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Electronics",
+        "rating": 4.4
+    },
+    {
+        "name": "Book",
+        "price": 12.99,
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fEJvb2t8ZW58MHx8fDE2ODc5NzEyMzM&ixlib=rb-1.2.1&q=80&w=1080",
+        "category": "Books",
+        "rating": 4.1
+    },
+    {
+        "name": "Cookbook",
+        "price": 22.99,
+        "image": "https://images.unsplash.com/photo-1529158062015-cad636e205a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Books",
+        "rating": 4.5
+    },
+    {
+        "name": "Science Fiction Book",
+        "price": 18.99,
+        "image": "https://images.unsplash.com/photo-1470549638415-0a0755be0619?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Books",
+        "rating": 4.6
+    },
+    {
+        "name": "Historical Fiction Book",
+        "price": 15.99,
+        "image": "https://images.unsplash.com/photo-1510172951991-856a654063f9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fHw%3D",
+        "category": "Books",
+        "rating": 4.3
+    },
+    {
+        "name": "Winter Jacket",
+        "price": 89.99,
+        "image": "https://images.unsplash.com/photo-1613422448762-c13f05ae758a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdpbnRlciUyMGphY2tldHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Clothing",
+        "rating": 4.7
+    },
+    {
+        "name": "Summer Dress",
+        "price": 49.99,
+        "image": "https://media.istockphoto.com/id/1783058263/photo/girl-stands-leaning-her-elbow-on-a-tree-behind-smiling-guy-with-his-hands-in-his-pockets.jpg?s=2048x2048&w=is&k=20&c=b-sSYmpjugy1S8wCxHI3QGUjkKT78G13OgOO0IkqutY=",
+        "category": "Clothing",
+        "rating": 4.3
+    },
+    {
+        "name": "Sneakers",
+        "price": 69.99,
+        "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c25lYWtlcnN8ZW58MHx8MHx8fDA%3D",
+        "category": "Clothing",
+        "rating": 4.5
+    },
+    {
+        "name": "Casual Shirt",
+        "price": 29.99,
+        "image": "https://images.unsplash.com/photo-1485218126466-34e6392ec754?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2F1c2FsJTIwc2hpcnR8ZW58MHx8MHx8fDA%3D",
+        "category": "Clothing",
+        "rating": 4.2
+    },
+    {
+        "name": "Lamp",
+        "price": 39.99,
+        "image": "https://plus.unsplash.com/premium_photo-1705582800047-1aacf1e0f0ba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFtcHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Home Goods",
+        "rating": 4.4
+    },
+    {
+        "name": "Vase",
+        "price": 24.99,
+        "image": "https://plus.unsplash.com/premium_photo-1681382743881-6afac0a7a556?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmFzZXxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Home Goods",
+        "rating": 4.6
+    }
+]

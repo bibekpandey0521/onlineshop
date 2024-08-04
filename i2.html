@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Listing</title>
+  <link rel="stylesheet" href="s3.css">
+</head>
+<body>
+  <header>
+    <h1>Product Listing</h1>
+    <div>
+      <label for="categoryFilter">Filter by Category:</label>
+      <select id="categoryFilter">
+        <option value="all">All</option>
+        <option value="Electronics">Electronics</option>
+        <option value="Clothing">Clothing</option>
+        <option value="Books">Books</option>
+      </select>
+
+      <label for="sortOptions">Sort by:</label>
+      <select id="sortOptions">
+        <option value="priceAsc">Price: Low to High</option>
+        <option value="priceDesc">Price: High to Low</option>
+        <option value="ratingAsc">Rating: Low to High</option>
+        <option value="ratingDesc">Rating: High to Low</option>
+      </select>
+    </div>
+  </header>
+  
+  <main id="productContainer">
+    <!-- Product cards will be dynamically inserted here -->
+  </main>
+  
+  <script src="s2.js"></script>
+</body>
+</html>

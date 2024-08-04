@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Listing</title>
+    <link rel="stylesheet" href="./s1grid.css">
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <h1 class="logo">Online Store</h1>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <header>
+        <div class="container">
+            <label for="category">Category:</label>
+            <select id="category">
+                <option value="all">All</option>
+                <option value="Electronics">Electronics</option>
+                <option value="Books">Books</option>
+                <option value="Clothing">Clothing</option>
+            </select>
+            <label for="sort">Sort by:</label>
+            <select id="sort">
+                <option value="price-asc">Price: Low to High</option>
+                <option value="price-desc">Price: High to Low</option>
+                <option value="rating-asc">Rating: Low to High</option>
+                <option value="rating-desc">Rating: High to Low</option>
+            </select>
+        </div>
+    </header>
+    <main>
+        <div id="product-grid" class="product-grid"></div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="footer-info">
+                <h2>Contact Us</h2>
+                <p>Email: support@onlinestore.com</p>
+                <p>Phone: (123) 456-7890</p>
+                <p>Address: 123 Main Street, Anytown, USA</p>
+            </div>
+            <div class="footer-links">
+                <h2>Quick Links</h2>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <script src="./script.js"></script>
+</body>
+</html>
